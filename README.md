@@ -1,4 +1,4 @@
-# MacKeychainModule
+# MacDefaultBrowser
 
 > I am not a Obj-C++ guy, feel free to improve this
 
